@@ -1,1 +1,1 @@
-console.log('First message')
+let button = document.querySelector("#button");
